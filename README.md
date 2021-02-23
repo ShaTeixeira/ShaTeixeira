@@ -18,5 +18,7 @@ Posso ajudar em CSS3, Layout no AdobeXD ou Figma.
 Procuro ajuda para compreender melhor ReactJS e NodeJS.
 <br />
 :exclamation: Entre em contato: [Linkedin](https://www.linkedin.com/in/shayane-teixeira-4520b2196/)
+<br />
 :email: [Gmail](shayaneteixeira56@gmail.com)
+<br />
 :boom: Sobre mim: Gosto de ver seriados e tocar violão
