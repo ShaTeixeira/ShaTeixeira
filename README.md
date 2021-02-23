@@ -9,7 +9,7 @@
 Atualmente não trabalho. :disappointed: 
 Estou com um projeto solo. para testar as minhas habilidades. 
 <br />
-:start: Aprendendo PHP. E as próximas são Laravel e TypeScript. 
+:star: Aprendendo PHP. E as próximas são Laravel e TypeScript. 
 <br />
 :fire: Habilidades: HTML5, CSS3, JavaScript.
 <br />
