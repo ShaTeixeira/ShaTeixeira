@@ -2,7 +2,7 @@
 # Shayane Teixeira 
 
 ### Olá Pessoal 👋
-    Meu nome é Shayane Teixeira. Sou estudante do IFES, faço o curso de Informática para       Internet. Estou no 3º ano, pois o curso é integrado com o Ensino Médio. Tenho vontade     de trabalhar com a área de TI, provavelmente Front-End. :computer: 
+  Meu nome é Shayane Teixeira. Sou estudante do IFES, faço o curso de Informática para       Internet. Estou no 3º ano, pois o curso é integrado com o Ensino Médio. Tenho vontade     de trabalhar com a área de TI, provavelmente Front-End. :computer: 
 
 ### Sobre Mim:
 
