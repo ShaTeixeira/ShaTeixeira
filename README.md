@@ -9,13 +9,13 @@
 Atualmente não trabalho. :disappointed: 
 Estou com um projeto solo. para testar as minhas habilidades. 
 <br />
-Aprendendo PHP. E as próximas são Laravel e TypeScript. :start:
+:start: Aprendendo PHP. E as próximas são Laravel e TypeScript. 
 <br />
-Habilidades: HTML5, CSS3, JavaScript.
+:fire: Habilidades: HTML5, CSS3, JavaScript.
 <br />
-Posso ajudar em CSS3, Layout no AdobeXD ou Figma. 
+:v: Posso ajudar em CSS3, Layout no AdobeXD ou Figma. 
 <br />
-Procuro ajuda para compreender melhor ReactJS e NodeJS.
+:purple_heart: Procuro ajuda para compreender melhor ReactJS e NodeJS.
 <br />
 :exclamation: Entre em contato: [Linkedin](https://www.linkedin.com/in/shayane-teixeira-4520b2196/)
 <br />
