@@ -12,8 +12,6 @@
 <br />
 :fire: Habilidades: HTML5, CSS3, JavaScript.
 <br />
-:v: Posso ajudar em CSS3, Layout no AdobeXD ou Figma. 
-<br />
 :purple_heart: Procuro ajuda para compreender melhor ReactJS e NodeJS.
 <br />
 :exclamation: Entre em contato: [Linkedin](https://www.linkedin.com/in/shayane-teixeira-4520b2196/)
