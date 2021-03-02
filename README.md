@@ -8,7 +8,7 @@
 
 :blush: Atualmente não trabalho. Estou com um projeto solo. para testar as minhas habilidades. 
 <br />
-:star: Aprendendo PHP. E as próximas são Laravel e TypeScript. 
+:star: Aprendendo PHP.
 <br />
 :fire: Habilidades: HTML5, CSS3, JavaScript.
 <br />
