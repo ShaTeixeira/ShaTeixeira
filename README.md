@@ -5,11 +5,6 @@
   Sou estudante do IFES-SERRA, faço o curso de Informática para Internet. Estou no 3º ano, o curso é integrado com o Ensino Médio. Tenho vontade de trabalhar com a área de TI, provavelmente Front-End. :computer: 
 </p>
 
-   <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecastrosales&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
-
-   </div>
 
 ### Sobre Mim:
 
