@@ -41,3 +41,14 @@
   <img src="https://avatars2.githubusercontent.com/u/28929274?s=400&v=4" width="20px">
   <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">Rocketseat - My Account</a>
 </div>
+
+<hr />
+
+<div>
+  <h2>Skills</h2>
+</div>
+<div align="center">
+  <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="20px" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="25px" />
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" width="30px" />
+</div>
