@@ -32,10 +32,6 @@
   <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">LinkedIn</a>
 </div>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" width="20px">
-  <p> Envie para: shayaneteixeira@gmail.com </p>
-</div>
-<div align="center">
   <img src="https://avatars2.githubusercontent.com/u/28929274?s=400&v=4" width="20px">
   <a href="https://app.rocketseat.com.br/me/shayane-teixeira-06251">Rocketseat - My Account</a>
 </div>
