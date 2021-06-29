@@ -24,8 +24,6 @@
 <br />
 :boom: I like to watch series and play guitar
 
-<hr />
-
 <div>
   <h2>Contact</h2>
 </div>
@@ -42,7 +40,6 @@
   <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">Rocketseat - My Account</a>
 </div>
 
-<hr />
 
 <div>
   <h2>Skills</h2>
