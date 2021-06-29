@@ -4,22 +4,40 @@
   I'm a student at IFES-Campus Serra, I do the Integrated High School in Computer Science for Internet. I want to work with the IT area, probably Front-End or Web Designer. :computer: 
 </p>
 
-### About Me:
+<div>
+  <h2>About Me</h2>
+</div>
 
-:blush: Work:
-I don't have. I'm doing the tcc of the course. 
+🔆 I'm currently finishing the final project of the high school technical course.
 <br />
-:star: Studying: 
-Learning PHP e WordPress.
+💻 All my projects are available [here.](https://github.com/ShaTeixeira?tab=repositories)
 <br />
-:fire: Skills: 
-HTML5, CSS3, JavaScript.
+❗ My posts, follow [Instagram.](https://www.instagram.com/insanity_dev/)
 <br />
-:purple_heart: Looking for help to better understand ReactJS and NodeJS.
+🎓 Learning PHP and Laravel.
 <br />
-:exclamation: Contact: 
-<a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/"></a>
-🔗[Linkedin](https://www.linkedin.com/in/shayane-teixeira-4520b2196/) 
-:email:[Gmail](shayaneteixeira56@gmail.com)
+🔥 Skills: HTML5, CSS3, practicing more JavaScript.
+<br />
+🟣: Looking for help to better understand PHP and Laravel.
+<br />
+🔷: Next ReactJS skills.
 <br />
 :boom: I like to watch series and play guitar
+
+<hr />
+
+<div>
+  <h2>Contact</h2>
+</div>
+<div align="center">
+  <img src="https://th.bing.com/th/id/R4f86ef12f713ddfb134577d10f51f1a7?rik=Darh%2fK2ckVT2Xg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flinkedin-icon-vector-png-linkedin-icon-2160.png&ehk=u1B334mQueISnNly%2btvdqDtfIDnMkNEUdmAeKg%2b50%2bM%3d&risl=&pid=ImgRaw" width="20px">
+  <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">LinkedIn</a>
+</div>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" width="20px">
+  <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">Gmail</a>
+</div>
+<div align="center">
+  <img src="https://avatars2.githubusercontent.com/u/28929274?s=400&v=4" width="20px">
+  <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">Rocketseat - My Account</a>
+</div>
