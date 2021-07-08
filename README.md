@@ -18,7 +18,7 @@
 <br />
 🔥 Skills: HTML5, CSS3, practicing more JavaScript.
 <br />
-🟣: Looking for help to better understand PHP and Laravel.
+🟣: Looking for help to better understand PHP.
 <br />
 🔷: Next ReactJS skills.
 <br />
