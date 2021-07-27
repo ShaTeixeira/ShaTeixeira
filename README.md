@@ -4,7 +4,7 @@
   :computer: Meu nome é Shayane Teixeira. Sou estudante do IFES - Campus Serra. Estudo Informática p/ Internet Integrado ao Ensino Médio. Quero trabalhar na área de TI, em Front-End ou Web Design. Atualmente estou terminando o projeto de TCC, do curso integrado.:computer: 
 </p>
 
-## About Me
+## Sobre Mim
   🎓 Atualmente aprendendo mais sobre *JavaScript e PHP.*
   <br />
   🔆 Minhas postagens, me siga em [Instagram.](https://www.instagram.com/insanity_dev/)
@@ -18,7 +18,7 @@
   💥 Eu gosto de assistir serie e  tocar violão e ukulele
 
 <div>
-  <h2>Contact</h2>
+  <h2>Contato</h2>
 </div>
 <div align="center">
   <img src="https://th.bing.com/th/id/R4f86ef12f713ddfb134577d10f51f1a7?rik=Darh%2fK2ckVT2Xg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flinkedin-icon-vector-png-linkedin-icon-2160.png&ehk=u1B334mQueISnNly%2btvdqDtfIDnMkNEUdmAeKg%2b50%2bM%3d&risl=&pid=ImgRaw" width="20px">
