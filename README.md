@@ -5,7 +5,7 @@
 </p>
 
 ## Sobre Mim
-  🎓 Atualmente aprendendo mais sobre *JavaScript e PHP.*
+  🎓 Atualmente aprendendo sobre *JavaScript e PHP.*
   <br />
   🔆 Minhas postagens, me siga em [Instagram.](https://www.instagram.com/insanity_dev/)
   <br />
