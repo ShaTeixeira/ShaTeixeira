@@ -18,18 +18,6 @@
   💥 Eu gosto de assistir serie e  tocar violão e ukulele
 
 <div>
-  <h2>Contato</h2>
-</div>
-<div align="center">
-  <img src="https://th.bing.com/th/id/R4f86ef12f713ddfb134577d10f51f1a7?rik=Darh%2fK2ckVT2Xg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flinkedin-icon-vector-png-linkedin-icon-2160.png&ehk=u1B334mQueISnNly%2btvdqDtfIDnMkNEUdmAeKg%2b50%2bM%3d&risl=&pid=ImgRaw" width="20px">
-  <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">LinkedIn</a>
-</div>
-<div align="center">
-  <a href="https://app.rocketseat.com.br/me/shayane-teixeira-06251">Rocketseat - Meu Profile</a>
-</div>
-
-
-<div>
   <h2> 🚀 Habilidades</h2>
 </div>
 <div align="center">
