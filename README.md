@@ -25,7 +25,6 @@
   <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">LinkedIn</a>
 </div>
 <div align="center">
-  <!--<img src="https://avatars2.githubusercontent.com/u/28929274?s=400&v=4" width="20px">-->
   <a href="https://app.rocketseat.com.br/me/shayane-teixeira-06251">Rocketseat - Meu Profile</a>
 </div>
 
