@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shateixeira.shateixeira)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
+ 
 
 </p>
   
