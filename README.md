@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shayane</h1>
 
 <p align="center">
-  :computer: Still in development, I'm starting in the programming area. I'm 19 years old. Study at the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Attending Computer Science for Internet Integrated to High School. I'm in the last year (performing my TCC). I intend to Bachalor Information Systems. I want to work with front end, but I also studied UX/UI.
+  :computer: Still in development, I'm starting in the programming area. I'm 19 years old. Study at the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Tecnico em Informática p/ Internet Integrado ao Ensino Médio. I'm in the last year (performing my TCC). I intend to Bachalor Information Systems. I want to work with front end, but I also studied UX/UI.
 </p>
 
 <p align="center">
