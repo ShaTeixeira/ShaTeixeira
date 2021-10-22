@@ -28,13 +28,13 @@
   💥 like to play guitar and ukulele, read and watch series.
   
 <a target="_blank" href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">
-  <img align="left" alt="LinkdIn" width="25px" src="https://sguru.org/wp-content/uploads/2018/02/Logo-LinkedIn-Round.png" />
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shayane-teixeira-4520b2196/" />
 </a>
 <a target="_blank" href="https://www.instagram.com/shay_teixeir02/">
-  <img align="left" alt="Instagram" width="25px" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-2.png" />
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/byte__dev/"/>
 </a>
 <a target="_blank" href="mailto:shayaneteixeira@gmail.com">
-  <img align="left" alt="Gmail" width="35px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />
+ <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
  
 <br />
@@ -51,9 +51,8 @@
 </h2>
 
 <h1 align="center"> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <img src="https://img.shields.io/badge/HTML-FF7F00?style=for-the-badge&logo=HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
 </h1>
 
