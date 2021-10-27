@@ -16,11 +16,11 @@
 <br />
 
 <p align="left"> 
-  :computer: Still in development, I'm starting in the programming area. I'm 19 years old. Study at the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Tecnico em Informática p/ Internet Integrado ao Ensino Médio. I'm in the last year (final paper). I intend to Bachalor Information Systems. I want to work with front end, but I also studied UX/UI.
+  :computer: Still in development, I'm starting in the programming area. I'm 19 years old. Study at the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Tecnico em Informática p/ Internet Integrado ao Ensino Médio. I intend to Bachalor Information Systems. I want to work with front end, but I also studied UX/UI.
 </p>
 
 
-📬 Contato
+📬 Contact
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mailto:shayaneteixeira@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shay_teixeir02/)
@@ -34,8 +34,6 @@
   👩‍🎓 I'm working on my final paper (project integrator, TCC).
   <br />
   🎓 Learning more about *JavaScript.* 
-  <br />
-  🎓 Learning *TypeScript.*
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/byte__dev/)
   <br />
@@ -51,11 +49,10 @@
 
 ---
 
-### 🛠️ Habilidades
-FIGMA
+### 🛠️ LEARNING
 <a href="#">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a
+</a>
 
 #### :wrench: Tools and environments
 
