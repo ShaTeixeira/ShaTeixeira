@@ -83,7 +83,7 @@
 ## 🖥️ Workspace Setup
 
 ![12GB RAM](https://img.shields.io/badge/12GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD_960-76B900?style=for-the-badge&logo=AMD&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-76B900?style=for-the-badge&logo=AMD&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10_WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
