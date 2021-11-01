@@ -39,8 +39,6 @@
   <br />
   💻 Visit my projects [here](https://github.com/ShaTeixeira?tab=repositories)
   <br />
-  🧑‍🤝‍🧑 I'm looking for freelance work.
-  <br />
   🔷 Next tech *ReactJS.*
   <br />
   💥 like to play guitar and ukulele, read and watch series.
@@ -48,12 +46,6 @@
 <br><br>
 
 ---
-
-### 🛠️ LEARNING
-<a href="#">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-
 #### :wrench: Tools and environments
 
 <!-- GIT -->
@@ -80,15 +72,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=MARKDOWN&logoColor=Markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
 
-## 🖥️ Workspace Setup
-
-![12GB RAM](https://img.shields.io/badge/12GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD-76B900?style=for-the-badge&logo=AMD&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_11_WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
----
 
 ## 📈 My GitHub Stats:
 
