@@ -9,7 +9,7 @@
 
 |  Idiomas    |
 |-----------|
-|[English](README.md)| 
+|[Inglês](README.md)| 
 |[Português](readme_ptBR.md)| 
  
 
