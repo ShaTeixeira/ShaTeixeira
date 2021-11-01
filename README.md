@@ -6,10 +6,10 @@
 <br />
 <br />
 
-|      |
+|   Languages   |
 |-----------|
 |[English](README.md)| 
-|[Português](readme_ptBR.md)| 
+|[Portuguese](readme_ptBR.md)| 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShaTeixeira&color=red" alt="Profile views" /> </p>
 
