@@ -1,7 +1,7 @@
 
-<img align="right" height="550rem" src="preview/preview.png"/>
+<img align="right" height="500rem" src="preview/preview.png"/>
 
-<h1 align="left">Olá pessoal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. Sou Shayane.</h1>
+<h1 align="left">Olá pessoal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. Eu sou Shayane.</h1>
 </h1>
 
 <br />
@@ -13,16 +13,12 @@
 |[Português](readme_ptBR.md)| 
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShaTeixeira&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShaTeixeira&color=blue" alt="Profile views" /> </p>
 
 <br />
-<br />
-<br />
-<br />
-
 
 <p align="left"> 
-  :computer: Ainda em desenvolvimento, Estou começando na area de programação. Tenho 19 anos. Estudo no Intituto Federal do Espírito Santo - IFES CAMPUS SERRA. Tecnico em Informática p/ Internet Integrado ao Ensino Médio. Tenho intenção em fazer Bacharelado de Sistemas de Informação. Quero trabalhar com Front-End, também estou estudando UX/UI 
+  :computer: Em desenvolvimento, começando na área de programação. eu tenho 19 anos.  Formada em Tecnico em Informática p/ Internet Integrada ao Ensino Médio pelo Instituto Federal do Espírito Santo - IFES CAMPUS SERRA. O curso desejado no ensino superior é Bacharelado em Sistemas de Informação. Meu desejo é trabalhar  com front-end. Junto com meus estudos em Javascript quero iniciar também os estudos em UX/UI.
 </p>
 
 
@@ -37,18 +33,30 @@
 <!-- About -->
 
 ## Sobre Mim 
-  👩‍🎓 Estoutrabalhando no meu projeto integrador (TCC).
+  👩‍🎓 Projeto Integrador finalizado com sucesso.
   <br />
-  🎓 Aprendendo mais sobre *JavaScript.* 
+  🎓 Habilidades mais avançadas sobre  *JavaScript.* 
   <br />
   🔆 Segue meu [Instagram](https://www.instagram.com/byte__dev/) de tech. 
   <br />
   💻 Visite meus projetos [aqui](https://github.com/ShaTeixeira?tab=repositories)
   <br />
-  🔷 Próxima tecnologia *ReactJS.*  
+  🔷 Iniciando estudos *ReactJS.*  
   💥 Gosto de tocar violão, ukulele. assistir series
   
 <br><br>
+
+---
+#### :wrench: Tools and environments
+
+<!-- GIT -->
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<!-- YARN -->
+<a href="#">
+      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+</a>
 
 ---
 
@@ -56,15 +64,15 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JAVASCRIPT&logoColor=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=html)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-2C8EBB?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=GIT&logoColor=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=MARKDOWN&logoColor=Markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-D14836?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-2C8EBB?style=for-the-badge&logo=MARKDOWN&logoColor=Markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C8EBB?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
 
 ---
 
-## 📈 Meu GitHub Status:
+## 📈 GitHub Status:
 
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=vision-friendly-dark" alt="ShaTeixeira's stats"/>
