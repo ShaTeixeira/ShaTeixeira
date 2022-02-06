@@ -1,4 +1,4 @@
-<img align="right" height="550rem" src="preview/preview.png"/>
+<img align="right" height="500rem" src="preview/preview.png"/>
 
 <h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Shayane.</h1>
 </h1>
@@ -11,12 +11,12 @@
 |[English](README.md)| 
 |[Portuguese](readme_ptBR.md)| 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShaTeixeira&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShaTeixeira&color=blue" alt="Profile views" /> </p>
 
 <br />
 
 <p align="left"> 
-  :computer: Still in development, I'm starting in the programming area. I'm 19 years old. Study at the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Tecnico em Informática p/ Internet Integrado ao Ensino Médio. I intend to Bachalor Information Systems. I want to work with front end, but I also studied UX/UI.
+  :computer: In development, starting in the programming area. I'm 19 years old. Graduated in Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is a Bachelor's degree in Information Systems. My wish is to work with front end. Along with my studies in Javascript I also want to start studies in UX /UI.
 </p>
 
 
@@ -31,17 +31,17 @@
 <!-- About -->
 
 ## About Me
-  👩‍🎓 I'm working on my final paper (project integrator, TCC).
+  👩‍🎓 Final paper successfully finalized (project integrator, TCC).
   <br />
-  🎓 Learning more about *JavaScript.* 
+  🎓 More advanced skills on *JavaScript.* 
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/byte__dev/)
   <br />
   💻 Visit my projects [here](https://github.com/ShaTeixeira?tab=repositories)
   <br />
-  🔷 Next tech *ReactJS.*
+  🔷 Initiating studies *ReactJS.*
   <br />
-  💥 like to play guitar and ukulele, read and watch series.
+  💥 Like to play guitar and ukulele, read and watch series.
   
 <br><br>
 
@@ -51,10 +51,6 @@
 <!-- GIT -->
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<!-- NPM -->
-<a href="#">
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 <!-- YARN -->
 <a href="#">
@@ -66,11 +62,11 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JAVASCRIPT&logoColor=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=html)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-2C8EBB?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=GIT&logoColor=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=MARKDOWN&logoColor=Markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-D14836?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-2C8EBB?style=for-the-badge&logo=MARKDOWN&logoColor=Markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C8EBB?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
 
 
 ## 📈 My GitHub Stats:
