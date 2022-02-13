@@ -71,10 +71,9 @@
 
 ## 📈 My GitHub Stats:
 
-<p align="left">
+<--![Snake animation]--> 
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=vision-friendly-dark" alt="ShaTeixeira's stats"/>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=vision-friendly-dark" alt="ShaTeixeira's most languages"/>
 </p>
-  ![Snake animation](https://github.com/shateixeira/shateixeira/blob/output/github-contribution-grid-snake.svg)
-
+ 
 ---
