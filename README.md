@@ -45,24 +45,12 @@
   
 <br><br>
 
----
-#### :wrench: Tools and environments
-
-<!-- GIT -->
-<a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<!-- YARN -->
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
-
-
 ## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JAVASCRIPT&logoColor=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2C8EBB?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-D14836?style=for-the-badge&logo=Javascript&logoColor=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=GIT&logoColor=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-D14836?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-2C8EBB?style=for-the-badge&logo=MARKDOWN&logoColor=Markdown)&nbsp;
