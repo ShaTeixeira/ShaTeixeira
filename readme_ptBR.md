@@ -47,18 +47,6 @@
 <br><br>
 
 ---
-#### :wrench: Tools and environments
-
-<!-- GIT -->
-<a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<!-- YARN -->
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
-
----
 
 ## 🛠 Tecnologias
 
