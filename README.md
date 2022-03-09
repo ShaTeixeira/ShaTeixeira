@@ -58,8 +58,10 @@
 
 ## 📈 My GitHub Stats:
 
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=vision-friendly-dark" alt="ShaTeixeira's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=vision-friendly-dark" alt="ShaTeixeira's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=tokyonight" alt="ShaTeixeira's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=tokyonight" alt="ShaTeixeira's most languages"/>
 </p>
+
+
  
 ---
