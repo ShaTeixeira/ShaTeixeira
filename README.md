@@ -50,8 +50,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JAVASCRIPT&logoColor=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2C8EBB?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
+![Banco de Dados](https://img.shields.io/badge/-DataBase-05122A?style=for-the-badge&logo=DATABASE&logoColor=db)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=GIT&logoColor=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-D14836?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=java)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-2C8EBB?style=for-the-badge&logo=MARKDOWN&logoColor=Markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C8EBB?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
 
