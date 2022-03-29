@@ -78,4 +78,4 @@
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=tokyonight" alt="ShaTeixeira's most languages"/>
 </p>
  
-![Snake animation](https://github.com/ShaTeixera/ShaTeixera/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shateixeira/shateixeira/blob/output/github-contribution-grid-snake.svg)&nbsp;
