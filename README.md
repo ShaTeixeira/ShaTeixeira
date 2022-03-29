@@ -16,7 +16,7 @@
 <br />
 
 <p align="left"> 
-  :computer: In development, starting in the programming area. I'm 19 years old. Graduated in Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is a Bachelor's degree in Information Systems. My wish is to work with front end. Along with my studies in Javascript I also want to start studies in UX /UI.
+  :computer: In development, starting in the programming area. I'm 19 years old. Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is a Bachelor's degree in Information Systems. My wish is to work with front end. Along with my studies in Javascript I also want to start studies in UX /UI.
 </p>
 
 
