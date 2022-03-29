@@ -40,27 +40,27 @@
   <br />
   💥 Like to play guitar and ukulele, read and watch series.
   
-<br><br>
+<br>
 
 ## 🛠 Tools
 ![Git](https://img.shields.io/badge/-Git-B03624?style=for-the-badge&logo=GIT&logoColor=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-D14836?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C8EBB?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
 
-<br><br>
+<br>
 
 ## 🛠 Dependency Manager
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=for-the-badge&logo=Yarn&logoColor=Yarn)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-D14836?style=for-the-badge&logo=NPM&logoColor=NPM)&nbsp;
 
-<br><br>
+<br>
 
 ## 🛠 Studying
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=Java&logoColor=java)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;
 
-<br><br>
+<br>
 
 ## 🛠 Tech Stack
 
@@ -71,7 +71,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=PostgreSQL)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=Sass&logoColor=Sass)&nbsp;
 
-
+<br>
 ## 📈 My GitHub Stats:
 
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=tokyonight" alt="ShaTeixeira's stats"/>
