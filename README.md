@@ -5,6 +5,8 @@
 <a href="https://shateixeira.github.io/">Visite o meu portfolio</a>
 
 <br />
+<br />
+<br />
 
  ![views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShaTeixeira&repo=ShaTeixera&countColorcountColor)
 
