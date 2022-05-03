@@ -25,7 +25,7 @@
 
 
 <p align="left"> 
-  :computer: In development, starting in the programming area. I'm 20 years old. Technician in Informatica for Internet Integrated to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Attending a bachelor's degree in Information Systems from FAESA College. My wish is to work with the façade. Now I'm focused on ReactJS, and starting the UI/UX Designer course.
+  :computer: In development, starting in the programming area. I'm 20 years old. Technician in Informatica for Internet Integrated to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Attending a bachelor's degree in Information Systems from FAESA College. My wish is to work with the frontend. Now I'm focused on ReactJS, and starting the UI/UX Designer course.
 </p>
    
 <!-- About -->
