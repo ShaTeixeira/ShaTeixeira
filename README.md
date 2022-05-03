@@ -25,15 +25,15 @@
 
 
 <p align="left"> 
-  :computer: In development, starting in the programming area. I'm 19 years old. Tecnico em Informática p/ Internet Integrado to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. The desired course in higher education is a Bachelor's degree in Information Systems. My wish is to work with the front. Now I'm focused on ReactJS, and starting UI/UX Designer course.
+  :computer: In development, starting in the programming area. I'm 20 years old. Technician in Informatica for Internet Integrated to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Attending a bachelor's degree in Information Systems from FAESA College. My wish is to work with the façade. Now I'm focused on ReactJS, and starting the UI/UX Designer course.
 </p>
    
 <!-- About -->
 
 ## About Me
-  👩‍🎓 Final paper successfully finalized (project integrator, TCC).
+  👩‍🎓 Working on the project [Feedback Widget]().
   <br />
-  🎓 More advanced skills on *JavaScript*.
+  🎓 More advanced skills on *HTML, CSS, JS, Banco de dados, SQL e PHP(básico)*.
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/byte__dev/)
   <br />
@@ -81,6 +81,6 @@
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=tokyonight" alt="ShaTeixeira's stats"/>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=tokyonight" alt="ShaTeixeira's most languages"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaTeixeira&theme=tokyonight" alt="ShaTeixeira" /></p>
-</p>
- 
+
+
 ![Snake animation](https://github.com/shateixeira/shateixeira/blob/output/github-contribution-grid-snake.svg)&nbsp;
