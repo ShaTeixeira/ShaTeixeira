@@ -33,13 +33,13 @@
 ## About Me
   👩‍🎓 Final paper successfully finalized (project integrator, TCC).
   <br />
-  🎓 More advanced skills on *JavaScript*. Pausing studies in *React.js*. 
+  🎓 More advanced skills on *JavaScript*.
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/byte__dev/)
   <br />
   💻 Visit my projects [here](https://github.com/ShaTeixeira?tab=repositories)
   <br />
-  🔷 Initiating studies *C#*.
+  🔷 Initiating studies *ReactJS*.
   <br />
   💥 Like to play guitar and ukulele, read and watch series.
   
@@ -59,7 +59,7 @@
 <br>
 
 ## 🛠 Studying
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+<!--![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;-->
 ![Java](https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=Java&logoColor=java)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;
 
@@ -75,10 +75,12 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=Sass&logoColor=Sass)&nbsp;
 
 <br>
-## 📈 My GitHub Stats:
+
+## My GitHub Stats 📈
 
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=tokyonight" alt="ShaTeixeira's stats"/>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=tokyonight" alt="ShaTeixeira's most languages"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaTeixeira&theme=tokyonight" alt="ShaTeixeira" /></p>
 </p>
  
 ![Snake animation](https://github.com/shateixeira/shateixeira/blob/output/github-contribution-grid-snake.svg)&nbsp;
