@@ -59,7 +59,8 @@
 <br>
 
 ## 🛠 Studying
-<!--![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;-->
+<!-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=Java&logoColor=java)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;
 
