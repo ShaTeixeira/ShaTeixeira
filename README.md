@@ -1,4 +1,4 @@
-<img height="500rem" src="./.github/profile.png" alt="apresentação pessoal"/>
+<img width="auto" height="300rem" src="./.github/profile.png" alt="apresentação pessoal"/>
 
 <h1>Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Shayane.</h1>
 </h1>
