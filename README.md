@@ -1,11 +1,12 @@
-<img width="auto" height="300rem" src="./.github/profile-github.png" alt="apresentação pessoal"/>
+<img align="right" height="300rem" src="./.github/profile-github.png" alt="apresentação pessoal"/>
 
-<h1>Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Shayane.</h1>
+<br/>
+
+<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Shayane.</h1>
 </h1>
 <a href="https://shateixeira.github.io/">Visite o meu portfolio</a>
 
-<br />
-<br />
+<br/>
 <br />
 
  ![views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShaTeixeira&repo=ShaTeixera&countColorcountColor)
