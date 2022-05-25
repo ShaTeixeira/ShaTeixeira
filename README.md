@@ -1,4 +1,4 @@
-<img align="right" height="300rem" src="./.github/profile-github.png" alt="apresentação pessoal"/>
+<img align="right" height="200rem" src="./.github/profile-github.png" alt="apresentação pessoal"/>
 
 <br/>
 
