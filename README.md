@@ -2,7 +2,7 @@
 
 <br/>
 
-<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Shayane.</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 </h1>
 <a href="https://shateixeira.github.io/">Visite o meu portfolio</a>
 
@@ -61,7 +61,7 @@
 
 ## 🛠 Studying
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=Java&logoColor=java)&nbsp;
+<!--![Java](https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=Java&logoColor=java)&nbsp;-->
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;
 
 <br>
