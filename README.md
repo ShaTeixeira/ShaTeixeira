@@ -1,6 +1,6 @@
-<img align="right" height="500rem" src=""/>
+<img height="500rem" src="./.github/profile.png" alt="apresentação pessoal"/>
 
-<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Shayane.</h1>
+<h1>Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm Shayane.</h1>
 </h1>
 <a href="https://shateixeira.github.io/">Visite o meu portfolio</a>
 
