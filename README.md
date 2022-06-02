@@ -63,7 +63,7 @@
 
 ## 🛠 Studying
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;
-![NextJS](https://img.shields.io/badge/next-05122A?style=for-the-badge&logo=next&logoColor=next)&nbsp;
+![NextJS](https://img.shields.io/badge/NextJS-05122A?style=for-the-badge&logo=NextJS&logoColor=NextJS)&nbsp;
 
 <br>
 
@@ -80,6 +80,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=Bootstrap&logoColor=Bootstrap)&nbsp;
 ![Sass e Scss](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=Sass&logoColor=Sass)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styledcomponents-05122A?style=for-the-badge&logo=styledcomponents&logoColor=styledcomponents)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=TailwindCSS&logoColor=TailwindCSS)&nbsp;
 <!--![Less](https://img.shields.io/badge/-Less-05122A?style=for-the-badge&logo=Less&logoColor=Less)&nbsp;-->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JAVASCRIPT&logoColor=javascript)&nbsp;
