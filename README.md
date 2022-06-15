@@ -63,7 +63,8 @@
 
 ## 🛠 Studying
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;
-![NextJS](https://img.shields.io/badge/NextJS-05122A?style=for-the-badge&logo=NextJS&logoColor=NextJS)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=Next.js&logoColor=Next.jsS)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=node.js)&nbsp;
 
 <br>
 
