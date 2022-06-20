@@ -52,6 +52,8 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-D14836?style=for-the-badge&logo=GITHUB&logoColor=github)&nbsp;
 
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=for-the-badge&logo=GitLab&logoColor=GitLab)&nbsp;
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C8EBB?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
 
 <br>
