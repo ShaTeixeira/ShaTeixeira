@@ -31,10 +31,10 @@
   :computer: In development, starting in the programming area. I'm 20 years old. Technician in Informatica for Internet Integrated to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Attending a bachelor's degree in Information Systems from FAESA College. My wish is to work with the frontend. Now I'm focused on ReactJS, and starting the UI/UX Designer course.
 </p>
    
-<!-- About -->
+<!-- About //https://github.com/ShaTeixeira/pets -->
 
 ## About Me
-  👩‍🎓 Working on the project [Pets](https://github.com/ShaTeixeira/pets).
+  👩‍🎓 Working on the project [IgniteLab](https://github.com/ShaTeixeira/ignite-lab-event-plataform)
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/byte__dev/)
   <br />
