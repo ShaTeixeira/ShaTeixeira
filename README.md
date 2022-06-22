@@ -44,7 +44,7 @@
   <br />
   💥 Like to play guitar and ukulele, read and watch series.
   <br />
-  💥  Visit my other projects in [Gitlab](https://gitlab.com/ShaTeixeira). There are projects still in build, then the projects comes to the github.
+  💥  Visit my other projects in [Bitbucket](https://bitbucket.org/shateixeira/). There are projects still in build, then the projects comes to the github.
 <br>
 
 ## 🛠 Tools
