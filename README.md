@@ -54,6 +54,8 @@
 
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=for-the-badge&logo=GitLab&logoColor=GitLab)&nbsp;
 
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-2C8EBB?style=for-the-badge&logo=Bitbucket&logoColor=Bitbucket)&nbsp;
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C8EBB?style=for-the-badge&logo=Visual-Studio-Code&logoColor=vscode)&nbsp;
 
 <br>
