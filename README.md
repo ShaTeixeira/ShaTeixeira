@@ -4,18 +4,9 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="100px"></h1>
 </h1>
-<a href="https://shateixeira.github.io/">Visite o meu portfolio</a>
+<a href="https://portfolio-react-oficial.vercel.app/">Visite o meu portfolio</a>
 
 <br/>
-<br />
-
- ![views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShaTeixeira&repo=ShaTeixera&countColorcountColor)
-
-|   Languages   |
-|-----------|
-|[English](README.md)| 
-|[Portuguese](readme_ptBR.md)| 
-
 <br />
 
 📬 Contact
@@ -28,19 +19,17 @@
 <p align="left"> 
   :computer: In development, starting in the programming area. I'm 20 years old. Technician in Informatica for Internet Integrated to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. Attending a bachelor's degree in Information Systems from FAESA College. My wish is to work with the frontend. Now I'm focused on ReactJS, and starting the UI/UX Designer course.
 </p>
-   
-<!-- About //https://github.com/ShaTeixeira/pets -->
 
 ## About Me
-  👩‍🎓 Working on the project [API Herois]()
+  👩‍🎓 Working on the project [ws-delivery-app](https://github.com/ShaTeixeira/delivery-app)
   <br />
   🔆 Follow me on [Instagram](https://www.instagram.com/byte__dev/)
   <br />
   💻 Visit my projects [here](https://github.com/ShaTeixeira?tab=repositories)
   <br />
-  🔷 Initiating studies *ReactJS*.
+  🔷 Initiating studies *Nextjs*.
   <br />
-  💥 Like to play guitar and ukulele, read and watch series.
+  💥 Like to play guitar and ukulele, read and watch series, listening songs.
 <br>
 
 ## 🛠 Tools
@@ -57,7 +46,6 @@
 <br>
 
 ## 🛠 Studying
-![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=Next.js&logoColor=Next.jsS)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=node.js)&nbsp;
 
@@ -69,26 +57,25 @@
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=html)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=html)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=Bootstrap&logoColor=Bootstrap)&nbsp;
 ![Sass e Scss](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=Sass&logoColor=Sass)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styledcomponents-05122A?style=for-the-badge&logo=styledcomponents&logoColor=styledcomponents)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=TailwindCSS&logoColor=TailwindCSS)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JAVASCRIPT&logoColor=javascript)&nbsp;
-<!--![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;![Node.js](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=node.js)&nbsp;-->
+![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=React&logoColor=React)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=Typescript&logoColor=Typescript)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=for-the-badge&logo=Webpack&logoColor=Webpack)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=for-the-badge&logo=Swagger&logoColor=Swagger)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mySQL&logoColor=SQL)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=PostgreSQL)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP&logoColor=PHP)&nbsp;
+
+<!--![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=for-the-badge&logo=Swagger&logoColor=Swagger)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=Jest&logoColor=Jest)&nbsp;
 ![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=for-the-badge&logo=Mocha&logoColor=Mocha)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express&logoColor=Express)&nbsp;
-<!--![Instanbul.js](https://img.shields.io/badge/-Instanbul.js-05122A?style=for-the-badge&logo=Instanbul.js&logoColor=Instanbul.js)&nbsp;-->
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mySQL&logoColor=SQL)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=PostgreSQL)&nbsp;
-<!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&logoColor=MongoDB)&nbsp;
-[Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker&logoColor=Docker)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)-->
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker&logoColor=Docker)&nbsp;-->
 
 ##### Coming out of the basic
 ![Java Básico](https://img.shields.io/badge/-Java-D14836?style=for-the-badge&logo=Java&logoColor=Java)&nbsp;
