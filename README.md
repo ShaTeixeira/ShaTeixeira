@@ -1,8 +1,6 @@
-<img align="right" height="200rem" src="./.github/profile-github.png" alt="apresentação pessoal"/>
-
-<br/>
-
-<h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="100px"></h1>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="100px">
+   <p> Hey guys!! My name's Shayane </p>
 </h1>
 <a href="https://portfolio-react-oficial.vercel.app/">Visite o meu portfolio</a>
 
