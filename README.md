@@ -10,7 +10,7 @@
 
 <p align="left"> 
   🖥️ Hey, how are you?????
-    I am 20 years old. I'm currently a FrontEnd and UI/UX Design intern.
+    I am 21 years old. I'm currently a FrontEnd and UI/UX Design intern.
     Graduated in Computer Technician for Internet Integrated to High School by the Federal Institute of Espírito Santo - IFES CAMPUS SERRA. I am in the 2nd period of the Graduation in TSI (Technology in Internet Systems). I'm studying Node.js with express through the JStack course.
 </p>
 
